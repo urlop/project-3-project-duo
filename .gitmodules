@@ -1,0 +1,6 @@
+[submodule "football-scores"]
+	path = football-scores
+	url = https://github.com/usagiChan/football-scores.git
+[submodule "alexandria-books"]
+	path = alexandria-books
+	url = https://github.com/usagiChan/alexandria-books.git
